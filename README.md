@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-A simple and responsive weather application built using **HTML, Tailwind CSS**, and **JavaScript**.  
+A simple and responsive weather application built using **HTML, Tailwind CSS JavaScript**, and **ReactJs**.  
 It fetches real-time weather data from the **OpenWeather API** and displays temperature, humidity, wind speed, and weather conditions based on any city input.
 
 ---
@@ -14,7 +14,6 @@ It fetches real-time weather data from the **OpenWeather API** and displays temp
 
 ## 📸 Preview
 
-(Add your screenshot here if needed)
 <img src="https://github.com/Mehedi-Hasan-Himel/Weather-App/blob/main/src/assets/preview.png?raw=true" alt="Weather App Preview" />
 
 ---
